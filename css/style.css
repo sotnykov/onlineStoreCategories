@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+.categories {
+  width: 33vw;
+  float: left;
+}
+
+.products {
+  width: 33vw;
+  float: left;
+}
+
+.info {
+  width: 32vw;
+  float: right;
+}
+
+.buy-button {
+  display: none;
+}
